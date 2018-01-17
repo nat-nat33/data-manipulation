@@ -1,4 +1,4 @@
-# Data Manipulation¶
+# Data Manipulation
 ### Date: 01/10/18
 ### Author: Natalie Ramirez
 ### Project Description
