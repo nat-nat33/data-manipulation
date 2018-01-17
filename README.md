@@ -13,7 +13,9 @@ As a Data Engineer, I need to understand the numpy arrays and pandas dataframes 
 ### Data Details
 Mock data was generated for practice in this project.
 
-Data File: data/mock_app_data.csv
-Scripts
-Script File: scripts/analysis.py
-Key Findings
+- Data File: data/mock_app_data.csv
+
+### Scripts
+- Script File: scripts/analysis.py
+
+### Key Findings
