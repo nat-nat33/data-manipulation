@@ -20,3 +20,6 @@ df.describe()
 
 # count for variations in gender that have values
 df['gender'].value_counts()
+
+# visually ploting the range in income and the median for all applicants
+df.boxplot(column= 'income')
