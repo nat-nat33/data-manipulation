@@ -10,12 +10,19 @@ As a Data Engineer, I need to understand the numpy arrays and pandas dataframes 
   - matplotlib
   - numpy
 - Jupyter Notebook
+
 ### Data Details
 Mock data was generated for practice in this project.
-
-- Data File: data/mock_app_data.csv
+- Data Files:
+  - mock_app_data.csv
+  - mock_app_data_2.csv
 
 ### Scripts
-- Script File: scripts/analysis.py
+- Script File: 
+  - analysis.py
+
+### Methods
+Please see Jupyter Notebook to see methods of data manipulation [here](https://github.com/nat-nat33/data-manipulation/blob/master/Data-Manipulation.ipynb).
 
 ### Key Findings
+- 
