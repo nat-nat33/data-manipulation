@@ -17,3 +17,6 @@ df.head(10)
 
 # basic description of the data
 df.describe()
+
+# count for variations in gender that have values
+df['gender'].value_counts()
