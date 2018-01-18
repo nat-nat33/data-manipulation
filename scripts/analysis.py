@@ -23,3 +23,6 @@ df['gender'].value_counts()
 
 # visually ploting the range in income and the median for all applicants
 df.boxplot(column= 'income')
+
+# visually plotting a comparison of income between male and female.
+bp = df.boxplot(column='income', by = 'gender', patch_artist=True)
