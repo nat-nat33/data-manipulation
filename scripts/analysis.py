@@ -15,3 +15,5 @@ print("num of columns: ", len(df. columns))
 #returns first 10 rows with header
 df.head(10)
 
+# basic description of the data
+df.describe()
