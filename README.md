@@ -21,8 +21,5 @@ Mock data was generated for practice in this project.
 - Script File: 
   - analysis.py
 
-### Methods
+### Methods and Findings
 Please see Jupyter Notebook to see methods of data manipulation [here](https://github.com/nat-nat33/data-manipulation/blob/master/Data-Manipulation.ipynb).
-
-### Key Findings
-- 
